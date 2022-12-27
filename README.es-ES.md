@@ -29,7 +29,6 @@
 </p>
 
 ## Cómo contribuir
-<p><a href="https://www.buymeacoffee.com/vaultboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vaultboy" /></a></p><br><br>
 
 Como es un proyecto sin fines de lucro, el cual demanda mucho tiempo, esfuerzo, y servicios pagos, Forkano va a sobrevivir si:
   * Hay una comunidad utilizando la red y creando pools de delegación
@@ -40,6 +39,9 @@ Como es un proyecto sin fines de lucro, el cual demanda mucho tiempo, esfuerzo, 
 * **ADA Address over Cardano Network**: addr1qxtdszvk7y5py6yu6yka27fsxpej5c33cu570fk6zg7tshwpkr4eltx90uad3gx4pr6s747vc94g26954lpk06swhcnsdqv0c9
 * **BTC Address**: bc1qe4wre8qwtav3krd3psxyk3cfpyyrmjhdu5p7jt
 * **USDT Address TRC-20 network**: TXPNLaLYNGd5TFkkDif9BY8PcMUeChqrY2
+
+<p><a href="https://www.buymeacoffee.com/vaultboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vaultboy" /></a></p><br><br>
+
 
 ## Propósitos
  * Educación y entrenamiento
