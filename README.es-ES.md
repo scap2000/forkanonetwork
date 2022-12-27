@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Este es el repositorio principal de github para Forkano Network</h1>
-<h3 align="center">Forkano: ¿Qué es Forkano, o Forkano Network? Forkano is "sólo" a fork (o bifurcación) del proyecto Cardano, significa una blockchain o cadena de bloques iniciada "de cero", con sus propias políticas y propósitos, los cuales están descriptos abajo. Forkano nace del <a href="https://github.com/input-output-hk" target="blank">código fuente origial de Cardano disponible en github</a>, accesible para quienquiera gracias a que IOHK ha adoptado la filosofía Open Source (código abierto). La billetera mvóil es un fork de <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, llamada en este caso Forkano Vault, modificada y adaptada para usar en Forkano network.</h3>
+<h3 align="center">Forkano: ¿Qué es Forkano, o Forkano Network? Forkano es "nada más que" un _fork_ (o bifurcación) del proyecto Cardano, significa una blockchain o cadena de bloques iniciada "de cero", con sus propias políticas y propósitos, los cuales están descriptos abajo. Forkano nace del <a href="https://github.com/input-output-hk" target="blank">código fuente origial de Cardano disponible en github</a>, accesible para quienquiera gracias a que IOHK ha adoptado la filosofía Open Source (código abierto). La billetera mvóil es un fork de <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, llamada en este caso Forkano Vault, modificada y adaptada para usar en Forkano network.</h3>
 
 ## ¿Qué puedes hacer con Forkano? 
 * Aprender cómo crear y correr tu(s) propio(s) nodo(s) validador(es)
@@ -58,7 +58,7 @@ Como es un proyecto sin fines de lucro, el cual demanda mucho tiempo, esfuerzo, 
    - Una vez que la gente vea el poder de la descentralización, CUALQUIER blockchain podrá ser evaluada como tal según su "grado de descentralización"
    - Recuerde: Internet es disruptiva por su descentralización. Bitcoin es disruptivo por su descentralización.
    - ¿Qué significa Descentralización?: SIN UN CONTROL PRINCIPAL, SIN PUNTO ÚNICO DE FALLA, SIN DECISIONES UNILATERALES -> Consenso (lea sobre Ouroboros)
- * Cómo contribuir
+ * Soporte y ayuda
    - This project was born as a "solo" project. But with your participation, a lot of people could participate and help each other.
      + Helping each other means: collaboration
      + Collaboration leads to community
