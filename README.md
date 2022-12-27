@@ -29,9 +29,6 @@
 <a href="https://twitter.com/forkanonetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="forkanonetwork" height="30" width="40" /></a>
 </p>
 
-## Support
-<p><a href="https://www.buymeacoffee.com/vaultboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vaultboy" /></a></p><br><br>
-
 ## Contributing
 As this is a non-profit project, which demands a lot of time, effort and paid services, Forkano will survive by:
   * Having people using the network and creating stake pools
@@ -42,6 +39,8 @@ As this is a non-profit project, which demands a lot of time, effort and paid se
 * **ADA Address over Cardano Network**: addr1qxtdszvk7y5py6yu6yka27fsxpej5c33cu570fk6zg7tshwpkr4eltx90uad3gx4pr6s747vc94g26954lpk06swhcnsdqv0c9
 * **BTC Address**: bc1qe4wre8qwtav3krd3psxyk3cfpyyrmjhdu5p7jt
 * **USDT Address TRC-20 network**: TXPNLaLYNGd5TFkkDif9BY8PcMUeChqrY2
+
+<p><a href="https://www.buymeacoffee.com/vaultboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vaultboy" /></a></p><br><br>
 
 ## Purposes
  * Education and training
