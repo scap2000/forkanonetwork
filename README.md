@@ -3,7 +3,9 @@
 
 
 <h1 align="center">This is the main github repository for the Forkano Network</h1>
-<h3 align="center">Forkano: What is Forkano, or Forkano Network? Forkano is "just" a Fork of Cardano, it means, a "from scratch" started blockchain network, with its own policies and purposes, which are described below. Forkano borns from the original <a href="https://github.com/input-output-hk" target="blank">Cardano source code available on github</a>, accessible to anyone thanks to the IOHK adopting the Open Source phylosophy. The mobile wallet is a fork from <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, called Forkano Vault, modified and adapted to the Forkano network.</h3>
+
+## What is Forkano, or Forkano Network?
+* Forkano is "just" a Fork of Cardano, it means, a "from scratch" started blockchain network, with its own policies and purposes, which are described below. Forkano borns from the original <a href="https://github.com/input-output-hk" target="blank">Cardano source code available on github</a>, accessible to anyone thanks to the IOHK adopting the Open Source phylosophy. The mobile wallet is a fork from <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, called Forkano Vault, modified and adapted to the Forkano network.</h3>
 
 ## What can you do with Forkano? 
 * Learn how to create and run your own validator node(s)
@@ -68,7 +70,7 @@ As this is a non-profit project, which demands a lot of time, effort and paid se
        + Why? That's not the question, but "how?" -> With your participation
  * Promote adoption of cryptocurrencies and blockchain technology
 
-## Policies
+## Policies and Tokenomics
 * This policies describes the Forkano Network "initial laws" and the "behavior".
     * The main token of the Forkano Network will be named as CAP or ©
         * The name CAP © is a tribute to Fallout game.
@@ -76,6 +78,6 @@ As this is a non-profit project, which demands a lot of time, effort and paid se
     * Limited supply of © 10,000,000,000 CAP
     * Initial supply of © ~168,000,000 CAP
  * © 100,000,000 million, from the initial supply, will be treated as whale wallets, for delegating to the first 100 staking pools created
-   - Every new staking pool, will have delegated from this whale wallets, © 1,000,000 CAP each, to ensure equity and competition between pools
+   - Every new staking pool, will have delegated from this whale wallets, © 1,000,000 CAP each, to ensure equity and fair competition between pools
    - After certain time, to be determined (could be 150 epoch, which are 150 days ~5 months), the pool will have enough rewards, the © 1,000,000 delegated will be retired and destined to another new pool, again, to ensure equity and fair competition
 
