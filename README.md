@@ -1,3 +1,7 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/forkanonetwork/forkanonetwork/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/forkanonetwork/forkanonetwork/blob/main/README.es-ES.md)
+
+
 <h1 align="center">This is the main github repository for the Forkano Network</h1>
 <h3 align="center">Forkano: What is Forkano, or Forkano Network? Forkano is "just" a Fork of Cardano, it means, a "from scratch" started blockchain network, with its own policies and purposes, which are described below. Forkano borns from the original <a href="https://github.com/input-output-hk" target="blank">Cardano source code available on github</a>, accessible to anyone thanks to the IOHK adopting the Open Source phylosophy. The mobile wallet is a fork from <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, called Forkano Vault, modified and adapted to the Forkano network.</h3>
 
