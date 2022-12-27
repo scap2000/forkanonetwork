@@ -4,7 +4,7 @@
 <h1 align="center">Este es el repositorio principal de github para Forkano Network</h1>
 
 ## ¿Qué es Forkano, o Forkano Network?
-* Forkano es "nada más que" un _fork_ (o bifurcación) del proyecto Cardano, significa una blockchain o cadena de bloques iniciada "de cero", con sus propias políticas y propósitos, los cuales están descriptos abajo. Forkano nace del <a href="https://github.com/input-output-hk" target="blank">código fuente origial de Cardano disponible en github</a>, accesible para quienquiera gracias a que IOHK ha adoptado la filosofía Open Source (código abierto). La billetera móvil es un fork de <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, llamada en este caso Forkano Vault, modificada y adaptada para usar en Forkano Network.
+* Forkano es "nada más que" un _fork_ (o bifurcación) del proyecto Cardano, significa que es una blockchain, o cadena de bloques, iniciada "de cero", con sus propias políticas y propósitos, los cuales están descriptos abajo. Forkano nace del <a href="https://github.com/input-output-hk" target="blank">código fuente origial de Cardano disponible en github</a>, accesible para quienquiera gracias a que IOHK ha adoptado la filosofía Open Source (código abierto). La billetera móvil es un fork de <a href="https://github.com/Emurgo/yoroi-mobile" target="blank">Yoroi Wallet</a>, llamada en este caso Forkano Vault, modificada y adaptada para usar en Forkano Network.
 
 ## ¿Qué puedes hacer con Forkano? 
 * Aprender cómo crear y correr tu(s) propio(s) nodo(s) validador(es)
@@ -17,7 +17,7 @@
 ## ¿Por qué existe Forkano Network?
 * Porque creo que la gente necesita aprender, entrenarse y cometer errores en una red alternativa, evitando erogaciones y costos
 
-## ¿Cuál esl el token o moneda nativa principal de Forkano Network?
+## ¿Cuál es el token o moneda nativa principal de Forkano Network?
 * Se llama CAP © y se representa como una chapita o tapita de botella de Nuka-Cola (véase <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">_Fallout Games_</a>)
 * ¿Fallout? ¿Por qué?
     * Porque en la historia principal del juego, la economía mundial ha colapsado y una de las formas de valor son estas tapitas de Nuka-Cola
