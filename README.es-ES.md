@@ -18,7 +18,7 @@
 * Porque creo que la gente necesita aprender, entrenarse y cometer errores en una red alternativa, evitando erogaciones y costos
 
 ## ¿Cuál es el token o moneda nativa principal de Forkano Network?
-* Se llama CAP © y se representa como una chapita o tapita de botella de Nuka-Cola (véase <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">_Fallout Games_</a>)
+* Se llama CAP © y se representa como una chapita o tapita de botella de Nuka-Cola (véase <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">__</a>)
 * ¿Fallout? ¿Por qué?
     * Porque en la historia principal del juego, la economía mundial ha colapsado y una de las formas de valor son estas tapitas de Nuka-Cola
     * ⚡ Dato curioso: Sí, soy fan de Fallout
