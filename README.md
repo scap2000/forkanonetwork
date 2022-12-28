@@ -21,7 +21,7 @@
 ## What is Forkano's main native asset?
 * It's called CAP © and it's represented by a bottle cap like the Nuka-Cola caps from Fallout Games
 * Fallout? Why?
-    *   Because in the main story of this game, the world economy has collapsed and one form of value are the Nuka-Cola bottle caps - See <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">_Fallout Wiki - Bottle Cap_</a>
+    *   Because in the main story of this game, the world economy has collapsed and one form of value are the Nuka-Cola bottle caps - See: <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">_Fallout Wiki - Bottle Cap_</a>
     * ⚡ Fun fact: Yes, I'm fan of Fallout
 
 ## Connect with me
