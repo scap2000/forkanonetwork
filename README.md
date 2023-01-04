@@ -27,7 +27,7 @@
 ## Contact and follow us for updates
 <p align="left">
 <a href="https://twitter.com/forkanonetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="forkanonetwork" height="30" width="40" /></a>
-<a href="https://t.me/forkanonetwork" target="blank"><img align="center" src="[https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809)" alt="forkanonetwork" height="30" width="40" /></a>
+<a href="https://t.me/forkanonetwork" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="forkanonetwork" height="30" width="30" /></a>
 </p>
 ## Contributing
 As this is a non-profit project, which demands a lot of time, effort and paid services, Forkano will survive by:
