@@ -23,9 +23,10 @@
     * Porque en la historia principal del juego, la economía mundial ha colapsado y una de las formas de valor son estas tapitas de Nuka-Cola - (véase <a href="https://fallout.fandom.com/wiki/Bottle_cap" target="blank">_Fallout Wiki - Bottle Cap_</a>)
     * ⚡ Dato curioso: Sí, soy fan de Fallout
 
-## Cómo contactarme
+## Síguenos
 <p align="left">
 <a href="https://twitter.com/forkanonetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="forkanonetwork" height="30" width="40" /></a>
+<a href="https://t.me/forkanonetwork" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="forkanonetwork" height="30" width="30" /></a>
 </p>
 
 ## Cómo contribuir
