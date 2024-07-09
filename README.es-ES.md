@@ -52,7 +52,7 @@ Como es un proyecto sin fines de lucro, el cual demanda mucho tiempo, esfuerzo, 
         + Creando y operando pools de delegación
  * Accesibilidad
     - Cualquier persona tendrá acceso a recibir una determinada suma de CAP para poder utilizar la red sin comprar ni gastar su dinero
-         + ¿Por qué? Porque creo que en algunos lugares (como Argentina por ejemplp) no es "tan fácil" comprar criptomonedas de otras cadenas de bloques, como ADA o ETH, donde las personas deben gastar dinero (inicialmente en USD, o dólares americanos) para poder utilizar esas redes
+         + ¿Por qué? Porque creo que en algunos lugares (como Argentina por ejemplo) no es "tan fácil" comprar criptomonedas de otras cadenas de bloques, como ADA o ETH, donde las personas deben gastar dinero (inicialmente en USD, o dólares americanos) para poder utilizar esas redes
  * Facilidad de adopción
    - Brindando facilidad de acceso a una cantidad suficiente de personas, esto llevará a más adopción en general
    - Más adopción significa más personas queriendo participar
